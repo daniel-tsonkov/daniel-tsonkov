@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel-tsonkov
-- 👀 I’m interested in Java
+- 👀 I’m interested in Java and automation QA
 - 🌱 I’m currently learning Java and Selenium
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: daniel_tzonkov@abv.bg, phone: +359878486610
