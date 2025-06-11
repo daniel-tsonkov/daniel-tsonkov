@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Tsonkov
-- 👀 I’m interested in JavaScript and automation QA
+- 👀 I’m interested in JavaScript and DevOps
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me by email: tsonkovd@gmail.com
 - 🌐 My website is www.tsonkov.dev
