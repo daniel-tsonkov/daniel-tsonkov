@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Tsonkov
 - 👀 I’m interested in JavaScript and DevOps
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and DevOps
 - 📫 How to reach me by email: tsonkovd@gmail.com
 - 🌐 My website is www.tsonkov.dev
   <!---- 💞️ I’m looking to collaborate on ...--->
